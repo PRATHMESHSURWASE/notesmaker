@@ -117,8 +117,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Prathmesh Surwase**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@PRATHMESHSURWASE]((https://github.com/PRATHMESHSURWASE))
+- LinkedIn: [[linkedin.com/in/prathmeshsurwase](https://www.linkedin.com/in/prathmeshsurwase/)
 
 ---
 
