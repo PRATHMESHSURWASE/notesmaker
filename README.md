@@ -118,7 +118,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Prathmesh Surwase**
 - GitHub: [@PRATHMESHSURWASE]((https://github.com/PRATHMESHSURWASE))
-- LinkedIn: [[linkedin.com/in/prathmeshsurwase](https://www.linkedin.com/in/prathmeshsurwase/)
+- LinkedIn: [linkedin.com/in/prathmeshsurwase](https://www.linkedin.com/in/prathmeshsurwase/)
 
 ---
 
